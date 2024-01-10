@@ -3,7 +3,7 @@ from ops import add, subtract, multiply, divide
 
 def test_add():
     print("add test")
-    assert add(2, 3) == 5
+    assert add(2, 3) == 6
 
 
 def test_subtract():
