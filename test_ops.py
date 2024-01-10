@@ -2,6 +2,7 @@ from ops import add, subtract, multiply, divide
 
 
 def test_add():
+    print("add test")
     assert add(2, 3) == 5
 
 
